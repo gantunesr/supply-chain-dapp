@@ -5,7 +5,7 @@ This repository containts an Ethereum DApp that demonstrates a Supply Chain flow
 ## Contract
 
 Address in Rinkeby network: 
-[0x0e0F4235b1def3567bEa52DAf3544aF719c58322](https://rinkeby.etherscan.io/address/0x0e0f4235b1def3567bea52daf3544af719c58322)
+[0x1264a0F1ae19C6327a31a32513BFFb825eC1DA5d](https://rinkeby.etherscan.io/address/0x1264a0f1ae19c6327a31a32513bffb825ec1da5d)
 
 ## Built With
 
