@@ -1,6 +1,6 @@
 # Supply chain & data auditing
 
-This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between a Seller and Buyer. The user story is similar to any commonly used supply chain process. A Seller can add items to the inventory system stored in the blockchain. A Buyer can purchase such items from the inventory system. Additionally a Seller can mark an item as Shipped, and similarly a Buyer can mark an item as Received.
+This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between farmer, distributor, retailer and consumer in a coffee supply chain. The user story is similar to any commonly used supply chain process. In this case, the farmer can harvest, process, pack and sell to a distributor, the distributor can ship it to a retailer, and the retailer is able to sell it to a customer.
 
 ## Tool stack
 
@@ -54,5 +54,4 @@ Address in Rinkeby network: [0x1264a0F1ae19C6327a31a32513BFFb825eC1DA5d](https:/
 ## Built With
 
 * [Ethereum](https://www.ethereum.org/) - Ethereum is a decentralized platform that runs smart contracts
-* [IPFS](https://ipfs.io/) - IPFS is the Distributed Web | A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
 * [Truffle Framework](http://truffleframework.com/) - Truffle is the most popular development framework for Ethereum with a mission to make your life a whole lot easier.
