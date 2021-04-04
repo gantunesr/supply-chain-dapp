@@ -15,8 +15,6 @@ contract SupplyChain is Ownable, FarmerRole, DistributorRole, RetailerRole, Cons
 
   mapping (uint => Item) items;
 
-  // Define a public mapping 'itemsHistory' that maps the UPC to an array of TxHash, 
-  // that track its journey through the supply chain -- to be sent from DApp.
   mapping (uint => string[]) itemsHistory;
   
   enum State 
