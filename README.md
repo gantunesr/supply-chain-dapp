@@ -1,4 +1,4 @@
-# Supply chain & data auditing
+# Coffee Supply Chain
 
 This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between farmer, distributor, retailer and consumer in a coffee supply chain. The user story is similar to any commonly used supply chain process. In this case, the farmer can harvest, process, pack and sell to a distributor, the distributor can ship it to a retailer, and the retailer is able to sell it to a customer.
 
